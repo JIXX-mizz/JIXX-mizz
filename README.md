@@ -1,4 +1,8 @@
-## Hi there 👋
+## Ola, me chamo Jayane Conceição 
+## sou estudante do alura
+## estou aprendendo os desenvolvimentos de tecnologia e entre outro
+## você pode entrar em contato comigo
+## 00001132049611SP@aluno.educacao.sp.gov.br 
 
 <!--
 **JIXX-mizz/JIXX-mizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
